@@ -1,6 +1,6 @@
 # Verificador de Idade
 
-Este projeto se trata de um verificador de idade baseado na idade digitada pelo usuário. Este projeto teve como finalidade treinar conceitos de JavaScript e criacão de telas no Front End.
+Este projeto se trata de um verificador de idade baseado na idade digitada pelo usuário. Este projeto teve como finalidade treinar conceitos de JavaScript e criacão de telas no Front End. Teste esse projeto pelo GitHub Pages.
 
 ![image](https://user-images.githubusercontent.com/105178774/184779941-c5452470-2410-4e65-a983-29453daf335a.png)
 
